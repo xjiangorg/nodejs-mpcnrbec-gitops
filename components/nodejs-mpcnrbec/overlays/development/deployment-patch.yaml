@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/quay_xjiang/nodejs-mpcnrbec:c42daaca881a56db75f5d55f522a79a28ff143fd@sha256:d698a8672b0f4cb2bb4cc96b002086603055f0b216396d0f8d427cd050e958c2
+        - image: quay.io/quay_xjiang/nodejs-mpcnrbec:32cae25dd63d3934d8c0996250dee952f8fc91ae@sha256:6e070cae1a6771dc4bee1f11bef5c7ca2f966c0e8299f119f2d1248bdd91abd4
           name: container-image
